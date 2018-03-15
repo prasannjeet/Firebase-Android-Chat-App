@@ -13,9 +13,9 @@
     * Slight problems in authentication and redirection.
     * There is a small `Login` button in the chat page, has to be removed.
 ## Screenshots
-![Login Page](https://raw.githubusercontent.com/prasannjeet/Smart-Home-Scheduling/master/img/01.PNG)
+![Login Page](https://github.com/prasannjeet/Firebase-Android-Chat-App/blob/master/img/login_page.png)
 
-![Register Page](https://raw.githubusercontent.com/prasannjeet/Smart-Home-Scheduling/master/img/02.PNG)
+![Register Page](https://github.com/prasannjeet/Firebase-Android-Chat-App/blob/master/img/signup_page.png)
 
-![Chat Page](https://raw.githubusercontent.com/prasannjeet/Smart-Home-Scheduling/master/img/03.PNG)
+![Chat Page](https://github.com/prasannjeet/Firebase-Android-Chat-App/blob/master/img/chat_page.png)
 
